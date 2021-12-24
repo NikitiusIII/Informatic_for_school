@@ -1,2 +1,2 @@
 # Informatic_for_school
-Repository for school's progects
+Repository for school's projects
